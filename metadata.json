@@ -1,0 +1,8 @@
+{
+  "name": "OMERRAVAS PORTFOLIO",
+  "description": "Professional global portfolio and digital project management platform for websites, Android APKs, desktop applications, AI projects, tools, and digital services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
